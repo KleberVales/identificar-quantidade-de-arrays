@@ -17,7 +17,7 @@ O objetivo é encontrar e imprimir o número de subarrays cuja soma é negativa.
 ![imagens/entrada1.png](imagens/entrada1.png)
 
 ### Exemplo de Saída
-![imagens/entrada1.png](imagens/entrada1.png)
+![imagens/entrada2.png](imagens/entrada2.png)
 
 
 
