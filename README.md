@@ -19,5 +19,8 @@ O objetivo é encontrar e imprimir o número de subarrays cuja soma é negativa.
 ### Exemplo de Saída
 ![imagens/entrada2.png](imagens/entrada2.png)
 
+### Explicação
+Neste exemplo, existem 9 subarrays negativos. Eles são: 
+[−2],[−5],[1,−2],[−2,4],[−5,1],[4,−5],[1,−2,4],[−2,4,−5],[4,−5,1]
 
 
